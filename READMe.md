@@ -1,4 +1,4 @@
-# file-sorting-script
+# Automatically sorting files
 一个能够按文件类型自动分类整理的 Python 小工具，能把文件夹里乱七八糟的文件按类型自动归类。
 
 # 终端运行教程(~/Downloads改为文件夹地址）
